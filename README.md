@@ -11,7 +11,7 @@
 ![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
 
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(22级)-gold)
 ![课堂表现10%](https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E8%A1%A8%E7%8E%B0-10%25-wheat)
 ![讨论与展示20%](https://img.shields.io/badge/%E8%AE%A8%E8%AE%BA%E4%B8%8E%E5%B1%95%E7%A4%BA-20%25-wheat)
 ![论文20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
@@ -20,9 +20,12 @@
 ## 授课教师
 
 - Lai Xiaoqiong
-  - 授课风格：
+  - 授课风格：PPT + 板书
   - 听课建议：如果对马克思主义原理感兴趣，可以认真听她的讲解。资本主义经济制度的部分讲解还是比较精彩的。
 
 ## 关于考试
+> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
-## 学习建议
+同[中国近现代史纲要](https://github.com/HITSZ-OpenAuto/GEIP1016)一样，马原考前也有串讲。
+
+2023 年的串讲几乎覆盖了考卷的所有考点，除了一道 10 分的简答题。
