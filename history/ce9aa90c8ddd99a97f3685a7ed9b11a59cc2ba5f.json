@@ -1,0 +1,142 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1417,
+    "time": 1751969583,
+    "hash": "ce9aa90c8ddd99a97f3685a7ed9b11a59cc2ba5f"
+  },
+  ".hoa/worktree.json": {
+    "size": 4140,
+    "time": 1751769932,
+    "hash": "6aca04900a7c7b5ae5336e8277ddd23cbe299fb1"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086039,
+    "hash": "602d58ff2fd39243a1a1235773e5737b836c1c47"
+  },
+  "README.md": {
+    "size": 5034,
+    "time": 1740820355,
+    "hash": "0add37da0bcaaf852845afb5fbc9729f622797e3"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737898496,
+    "hash": "ef52c43c2dbc87fb5ca3d99fc7cb3b3609229414"
+  },
+  "exams/2021秋马原主观题回忆-Tintin.pdf": {
+    "size": 369322,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "exams/2022秋马原理试题回忆.pdf": {
+    "size": 190049,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "exams/2023秋马原期末回忆版答案.pdf": {
+    "size": 293473,
+    "time": 1722224891,
+    "hash": "8d4a5c5f6642be0c30713b5524ce46f948e84778"
+  },
+  "exams/2023秋马原期末回忆版试题.pdf": {
+    "size": 203598,
+    "time": 1722224891,
+    "hash": "8d4a5c5f6642be0c30713b5524ce46f948e84778"
+  },
+  "exams/2024秋马原理期末回忆.pdf": {
+    "size": 410220,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737898496,
+    "hash": "ef52c43c2dbc87fb5ca3d99fc7cb3b3609229414"
+  },
+  "materials/马原专题课后练习试题总汇.docx": {
+    "size": 104973,
+    "time": 1722224891,
+    "hash": "8d4a5c5f6642be0c30713b5524ce46f948e84778"
+  },
+  "materials/马原名词解释.pdf": {
+    "size": 136792,
+    "time": 1722224891,
+    "hash": "8d4a5c5f6642be0c30713b5524ce46f948e84778"
+  },
+  "materials/马原常见问题解答.pdf": {
+    "size": 206591,
+    "time": 1722224891,
+    "hash": "8d4a5c5f6642be0c30713b5524ce46f948e84778"
+  },
+  "materials/马原试题内含答案.docx": {
+    "size": 60928,
+    "time": 1722224891,
+    "hash": "8d4a5c5f6642be0c30713b5524ce46f948e84778"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737898496,
+    "hash": "ef52c43c2dbc87fb5ca3d99fc7cb3b3609229414"
+  },
+  "notes/2020_hewei/2020马原复习大纲.md": {
+    "size": 13451,
+    "time": 1737174530,
+    "hash": "66c7f35f7915ab42c0730a1d49613c517f5e7611"
+  },
+  "notes/2020_hewei/README.md": {
+    "size": 134,
+    "time": 1737174530,
+    "hash": "66c7f35f7915ab42c0730a1d49613c517f5e7611"
+  },
+  "notes/2022秋马克思主义基本原理串讲课整理_Zifeng Huang.pdf": {
+    "size": 2603901,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2022马克思原理个人整理笔记_零雨其濛.pdf": {
+    "size": 4903467,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2023秋马克思主义基本原理串讲整理_Maxwell Jay.md": {
+    "size": 42034,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2023秋马原串讲复习_psp.pdf": {
+    "size": 1335511,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2023秋马原串讲大纲_longlin.md": {
+    "size": 35138,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2024秋马原串讲原文_串讲课转录组.pdf": {
+    "size": 279688,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2024秋马原串讲总结_limbo.pdf": {
+    "size": 580813,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2024秋马原串讲整理_串讲整理小组.pdf": {
+    "size": 343206,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "notes/2024秋马原思维导图_X1c.pdf": {
+    "size": 10359502,
+    "time": 1737237631,
+    "hash": "ae6523bb500823a4add00b70decd94b879828a15"
+  },
+  "tag.txt": {
+    "size": 80,
+    "time": 1701256525,
+    "hash": "b687590a34ebc8c425c959f20ddf77b54d8a08a1"
+  }
+}
