@@ -1,0 +1,206 @@
+ID: "GEIP1011"
+SimilarID: []
+Name: "马克思主义基本原理"
+CourseProperty:
+  Major:
+    - Year: "2020_2021"
+      Name: [ "自动化", "电信", "电气", "土木", "环境", "材料", "计算机", "机械", "建筑", "经济", "工商管理", "数学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: ""
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "10"
+    - Name: "讨论与展示"
+      Percentage: "20"
+    - Name: "论文"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "计算机", "通信", "建筑", "工商管理", "环境", "经济", "机械", "电气", "材料", "光电", "能源", "土木", "数学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: ""
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "10"
+    - Name: "讨论与展示"
+      Percentage: "20"
+    - Name: "论文"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "计算机", "自动化", "通信", "智能强基班", "机械", "电气", "能源", "城乡规划", "建筑学", "光电", "数学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: ""
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "10"
+    - Name: "讨论与展示"
+      Percentage: "20"
+    - Name: "论文"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "通信", "自动化", "电气", "工商管理", "计算机", "光电", "经济", "数学", "城乡规划", "机械", "建筑学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: ""
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "4"
+    - Name: "小测"
+      Percentage: "16"
+    - Name: "讨论与展示"
+      Percentage: "10"
+    - Name: "期末考试"
+      Percentage: "70"
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（机器人与智能装备）", "人工智能班", "工科试验班（自动化与电气工程）", "经济管理试验班", "建筑学", "城乡规划", "工科试验班（先进材料类）", "工科试验班（智能土木类）", "工科试验班（生态环境类）", "化学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "4"
+    - Name: "小测"
+      Percentage: "16"
+    - Name: "讨论与展示"
+      Percentage: "10"
+    - Name: "期末考试"
+      Percentage: "70"
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（计算机与电子通信拔尖班）", "人工智能班", "电气工程及其自动化", "工科试验班（空天科技）", "化学", "工科试验班（机器人与智能装备）", "工科试验班（生态环境类）", "工科试验班（先进材料类）", "工科试验班（智慧能源与低空动力）", "工科试验班（智能土木类）", "数字媒体艺术", "城乡规划", "建筑", "经济管理试验班" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "4"
+    - Name: "小测"
+      Percentage: "16"
+    - Name: "讨论与展示"
+      Percentage: "10"
+    - Name: "期末考试"
+      Percentage: "70"
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2019_2020"
+      Name: [ "通信", "经济", "计算机", "自动化", "土木", "机械", "环境", "材料", "电气", "建筑", "null" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: ""
+  CourseID: "GEIP1011"
+  CourseName: "马克思主义基本原理"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: "10"
+    - Name: "讨论与展示"
+      Percentage: "20"
+    - Name: "论文"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition: []
