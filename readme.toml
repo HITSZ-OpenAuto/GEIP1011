@@ -7,10 +7,11 @@ description = """
 同中国近现代史纲要一样，马原考前也有串讲。
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "赖小琼"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：PPT + 板书
 听课建议：如果对马克思主义原理感兴趣，可以认真听她的讲解。资本主义经济制度的部分讲解还是比较精彩的。
@@ -18,10 +19,10 @@ content = """
 """
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "胡莹"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：PPT + 板书 + 小视频 + 音乐
 听课建议：在我听过的课中，她的课仅次于马院真神席老师，对哲学感兴趣的同学可以认真听（因为这学期只学了哲学）。
@@ -29,17 +30,17 @@ content = """
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2024-12" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "贾点点"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "一位很年轻的老师，上课注重与同学的互动，经常组织课堂讨论，会偶尔抽查出勤情况，旷课会扣相应平时分，但是若在课堂上有精彩的发言则会给予额外加分。PPT风格与同类型的课程差不多，属于详细清楚的类型，每节课都会将课件发到相应班级群。"
 author = { name = "Wei He", link = "https://github.com/hewei2001", date = "2020-01" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "华苗"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：形式非常新颖，25 秋包括了一系列 AI 相关的教学方式。
 强烈建议选，25 秋有本班专属的雨课堂 AI 问答供同学们进行复习，**效果很好**。
