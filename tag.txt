@@ -1,3 +1,0 @@
-category: 必修
-semester: 第二学年秋季
-name: 马克思主义基本原理
