@@ -1,13 +1,13 @@
 course_name = "马克思主义基本原理"
-repo_type = "normal"
 course_code = "GEIP1011"
-
+repo_type = "normal"
 description = """
 一定要买最新版的教材！不同版的教材的内容可能大不一样，一些表述也可能有所修改。
 同中国近现代史纲要一样，马原考前也有串讲。
 """
 
 [lecturers]
+
 [[lecturers.items]]
 name = "赖小琼"
 
@@ -46,7 +46,6 @@ content = """
 强烈建议选，25 秋有本班专属的雨课堂 AI 问答供同学们进行复习，**效果很好**。
 """
 author = { name = "Cecilia", link = "https://github.com/mircecilia", date = "2026-01" }
-
 
 [[sections]]
 title = "关于考试"
