@@ -11,8 +11,8 @@
   },
   "README.md": {
     "size": 5080,
-    "time": 1778246556,
-    "hash": "38144f40e8c70c739202585e6ed1243c107be48d"
+    "time": 1784383652,
+    "hash": "77fffddd4314b68f724b99f5847d8b1ff5cc2927"
   },
   "exams/.gitkeep": {
     "size": 0,
@@ -153,10 +153,5 @@
     "size": 4890,
     "time": 1778246544,
     "hash": "2e51f63cdde74d146fd006c0fa4f273a13efeec8"
-  },
-  "tag.txt": {
-    "size": 80,
-    "time": 1701256525,
-    "hash": "b687590a34ebc8c425c959f20ddf77b54d8a08a1"
   }
 }
