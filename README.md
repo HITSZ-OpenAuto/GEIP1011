@@ -1,12 +1,5 @@
 # GEIP1011 - 马克思主义基本原理
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂表现10%](https://img.shields.io/badge/课堂表现-10%25-wheat)
-![讨论与展示20%](https://img.shields.io/badge/讨论与展示-20%25-wheat)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 一定要买最新版的教材！不同版的教材的内容可能大不一样，一些表述也可能有所修改。
 同中国近现代史纲要一样，马原考前也有串讲。
